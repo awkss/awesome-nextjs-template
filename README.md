@@ -2,8 +2,8 @@
 
 An impressive collection of the best Next.js boilerplate/template lists.
 
-- [Supastarter](https://supastarter.dev?aff=zXRYe) - SaaS starter kits for Next.js 14 and Nuxt 3. Based on a Monorepo, it has almost all the functional interfaces you need, and it provides different providers. The downside is that it has fewer business UI components similar to landing pages. but the updates are very active. The author Marc, has made a profit of over $100 million by selling the template.
-- [Shipfast](https://shipfa.st/?via=top) - fewer functional interfaces, but it has a wide variety of commonly used UI components for landing pages, making it suitable to complement supastarter. The author Marc, has made a profit of over $100 million by selling the template.
+- [Supastarter](https://supastarter.dev?aff=zXRYe) - SaaS starter kits for Next.js 14 and Nuxt 3. Based on a Monorepo, it has almost all the functional interfaces you need, and it provides different providers. The downside is that it has fewer business UI components similar to landing pages. but the updates are very active. The author Jonathan has made a profit of over $100K by selling the template.
+- [Shipfast](https://shipfa.st/?via=top) - fewer functional interfaces, but it has a wide variety of commonly used UI components for landing pages, making it suitable to complement supastarter. The author Marc has made a profit of over $1M by selling the template.
 - [Shipped](https://shipped.club?aff=zXRYe) - it has a rich set of interfaces, UI, and Chrome Extension Boilerplate.
 - [Shipixen](https://shipixen.com?aff=zXRYe) - deployed Next.js codebase without ever touching config. Ship a beautifully designed Blog, Landing Page, SaaS, Waitlist or anything in between.
 - [Nextjsdirectory](https://nextjsdirectory.com?aff=zXRYe) - Everything you need to quickly launch a directory.
